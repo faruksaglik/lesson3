@@ -2,5 +2,5 @@ Limonata tarifi:
 
 1.Limonata
 2.su
-3. 1 kup seker 
+3. 1 kup seker  conflict
 4.Nane
